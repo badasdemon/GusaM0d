@@ -1,0 +1,178 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-4911992248615168/4884840336",
+      "main_ads_intertitial":"ca-app-pub-4911992248615168/3136644392",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+        {
+      "id":1,
+      "name":"Suzuki GSR-X",
+      "category":"Mods",
+      "image":"https://top-mods.com/upload/000/u1/1/1/suzuki-gsr-x-1000-photo-big.webp",
+      "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Suzuki%20GSX%20R%201000.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Suzuki GSR-X</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":2,
+      "name":"Toyota Hilux",
+      "category":"Mods",
+      "image":"https://top-mods.com/upload/000/u1/d/9/toyota-hilux-photo-big.webp",
+      "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Toyota%20Hilux%20By%20betonovyi.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Toyota Hilux</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":3,
+      "name":"Volkswagen Passat",
+      "category":"Mods",
+      "image":"https://top-mods.com/upload/000/u1/9/9/volkswagen-passat-photo-big.webp",
+      "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Passat.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Volkswagen Passat </p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+   },
+   {
+    "id":4,
+    "name":"Trailer truck",
+    "category":"Other Mods",
+    "image":"https://top-mods.com/upload/000/u1/f/c/trailer-truck-photo-big.webp",
+    "download":"https://ia801509.us.archive.org/1/items/hyundai-tucson-2016/truck%20EGOR.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Trailer truck</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":5,
+    "name":"Audi 80 b4",
+    "category":"Other Mods",
+    "image":"https://top-mods.com/upload/000/u1/9/d/audi-80-b4-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Audi%2080%20b4.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Audi 80 b4</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":6,
+    "name":"Peugeot 306",
+    "category":"Other Mods",
+    "image":"https://top-mods.com/upload/000/u1/2/9/peugeot-306-wagon-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/peugeot%20306%20un.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Peugeot 306</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":7,
+    "name":"Porsche 911",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/2/f/porsche-911-carrera-cabriolet-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/porsche%20911%20carrera%20cabriolet.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Porsche 911</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":8,
+    "name":"Suzuki Jimny",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/8/1/suzuki-jimny-photo-big.webp",
+    "download":"https://ia601501.us.archive.org/6/items/suzuki-jimny-maksim-4672/Suzuki%20jimny%20Maksim_4672.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Suzuki Jimny</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":9,
+    "name":"Mercedes-AMG",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/a/0/mercedes-amg-gt-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/mercedes%20amg%20gt.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Mercedes-AMG</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":10,
+    "name":"Bike",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/9/4/bike-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/4auka.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Bike</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":11,
+    "name":"Tesla Roadster",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/3/8/tesla-roadster-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/tesla%20roadster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tesla Roadster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":12,
+    "name":"DeLorean DMC-12",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/5/2/delorean-dmc-12-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/delorean%20DMC%2012.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">DeLorean DMC-12</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":13,
+    "name":"Motorcycle",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/e/2/motorcycle-by-benby87-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/MOTOSE1987.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Motorcycle</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":14,
+    "name":"Aston Martin",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/2/7/aston-martin-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Aston%20Martin.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Aston Martin</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":15,
+    "name":"BMW M5 F10",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/0/6/bmw-m5-f10-by-maksim-4672-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/bmw%20m5%20f10Maksim_4672.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">BMW M5 F10</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":16,
+    "name":"Hyundai Tucson",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/1/b/hyundai-tucson-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Hyundai%20tucson%202016.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Hyundai Tucson</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":17,
+    "name":"Nissan Skyline R34",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/f/d/nissan-skyline-r34-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Nissan%20skyline%20r34.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Nissan Skyline R34</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":18,
+    "name":"Rolls-Royce Phantom",
+    "category":"Mods",
+    "image":"https://top-mods.com/upload/000/u1/8/0/rolls-royce-phantom-5-photo-big.webp",
+    "download":"https://ia601509.us.archive.org/1/items/hyundai-tucson-2016/Rolls%20Royce%20Phantom5.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Rolls-Royce Phantom</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by top-mods</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. PRESS DOWNLOAD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXP: Download/GoblinMod/Goblin.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod exp: Goblin.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your Goblin.melsave here)</div></figure>\n</div>"
+  }
+  ]
+}
