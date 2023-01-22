@@ -272,6 +272,38 @@
       "image":"https://archive.org/download/flashlighthead/fnaf.png",
       "download":"https://ia804707.us.archive.org/24/items/flashlightscp/FNAF%201.zip",
       "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":31,
+      "name":"Wavyr",
+      "category":"Mods",
+      "image":"https://archive.org/download/dinosaurnew/Wavyir.jpg",
+      "download":"https://ia904706.us.archive.org/5/items/dinosaurnew/Wavyir.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":32,
+      "name":"giantant",
+      "category":"Mods",
+      "image":"https://archive.org/download/dinosaurnew/giantant.jpg",
+      "download":"https://ia904706.us.archive.org/5/items/dinosaurnew/giantant.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":33,
+      "name":"triceratops2",
+      "category":"Mods",
+      "image":"https://archive.org/download/dinosaurnew/triceratops2.jpg",
+      "download":"https://ia904706.us.archive.org/5/items/dinosaurnew/Triceratops%20.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":34,
+      "name":"sanworm",
+      "category":"Mods",
+      "image":"https://archive.org/download/dinosaurnew/sandworm.jpg",
+      "download":"https://ia904706.us.archive.org/5/items/dinosaurnew/sandworm.zip",
+      "description":"file:///android_asset/ueue.html"
     }
 	 ]
 }
